@@ -113,7 +113,7 @@ transform: translate(550px,300px) rotate(45deg);
 }
 
 .five:hover:before{
-   transform: translate(-50px,-400px) rotate(45deg);
+   transform: translate(-250px,-400px) rotate(45deg);
 }
 
 .five .caption{
